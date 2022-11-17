@@ -1,6 +1,6 @@
-    <div id="header" align="center">
-        <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e473y820da7m1iqzqzy75obsy2cjrt0cwxqw16x7lsp&rid=giphy.gif&ct=g" width="200">
-        <h1 align="center">Hi 👋, I´m Kelvin Peralta</h1>
-        <p  align="center">I am a junior programmer, I possess knowledge of high quality and reliability. 
-            I am passionate and creative. I always go after my goals and objectives.</p>
-    </div>
+- 👋 Hi, I'm @KelvinPeralta, I'm 30 years old and I'm passionate about technology and programming.
+- 👀 I am interested in Javascript, Html, Css, ReactJs, NodeJs.
+- 🌱 I am currently learning Full-Stack Web Programming and Computer Science.
+- 💞️ I am looking to collaborate on projects where I can develop my skills and contribute my knowledge.
+- 📫 How to contact me https://personalportkjpa.netlify.app/
+
