@@ -1,6 +1,8 @@
-- 👋 Hi, I'm @KelvinPeralta, I'm 30 years old and I'm passionate about technology and programming.
-- 👀 I am interested in Javascript, Html, Css, ReactJs, NodeJs.
-- 🌱 I am currently learning Full-Stack Web Programming and Computer Science.
-- 💞️ I am looking to collaborate on projects where I can develop my skills and contribute my knowledge.
-- 📫 How to contact me https://personalportkjpa.netlify.app/
+# ¡Hi 👋! I´m Kelvin Peralta.
 
+I am a junior programmer, I possess knowledge of high quality and reliability. I am passionate and creative. I always go after my goals and objectives. I like to build fast web applications with [React](https://es.reactjs.org/) / [Javascript](https://www.javascript.com/) / [Nodejs](https://nodejs.org/en/about/)
+
+## Puedes encontrarme en:
+
+- Web personal [Kelvin Peralta](https://personalportkjpa.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/kelvin-jose-peralta-almonte-599009248/)
