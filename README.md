@@ -3,7 +3,7 @@
 <img align="right" width="550px" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76113ea369272371e121c3b68c232535204657ef9fb1&rid=giphy.gif&ct=g" alt="Kelvin Jose Peralta Almonte" />
 
 ## About Me
-I am a junior programmer, I possess knowledge of high quality and reliability. I am passionate and creative. I always go after my goals and objectives. I like to build fast web applications with [React](https://es.reactjs.org/) / [Javascript](https://www.javascript.com/) / [Nodejs](https://nodejs.org/en/about/)
+I am a programmer, I possess knowledge of high quality and reliability. I am passionate and creative. I always go after my goals and objectives. I like to build fast web applications with [React](https://es.reactjs.org/) / [Javascript](https://www.javascript.com/) / [Nodejs](https://nodejs.org/en/about/)
 
 ## You can find me at:
 
